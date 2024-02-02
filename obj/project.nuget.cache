@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FOcc34njIUZn9AHNV5GxzW8eewWB6oU/+mfKwRAetarhg+unxGxgZVNNwpiG3U6IEYMyid/medi6uIPQW7Wc0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sisma\\Documents\\PROYECTOS DE .NET\\TestOpenCVSharp\\TestOpenCVSharp\\TestOpenCVSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sisma\\.nuget\\packages\\opencvsharp4\\4.9.0.20240103\\opencvsharp4.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\Sisma\\.nuget\\packages\\opencvsharp4.runtime.win\\4.9.0.20240103\\opencvsharp4.runtime.win.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\Sisma\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Sisma\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
